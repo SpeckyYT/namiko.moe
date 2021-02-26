@@ -1,0 +1,30 @@
+{
+  "name": "namiko.moe",
+  "version": "0.0.0",
+  "description": "Unofficial namiko.moe APIs wrapper.",
+  "main": "index.js",
+  "typings": "typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeckyYT/namiko.moe.git"
+  },
+  "keywords": [
+    "namiko",
+    "moe",
+    "anime",
+    "wrapper",
+    "api"
+  ],
+  "author": "SpeckyYT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpeckyYT/namiko.moe/issues"
+  },
+  "homepage": "https://github.com/SpeckyYT/namiko.moe#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
