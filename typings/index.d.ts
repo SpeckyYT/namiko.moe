@@ -16,5 +16,5 @@ type API = {
 }
 
 export const Waifu:Waifu
-export function waifus(search:String):Array<Waifu>
+export function waifus(search:String):Promise<Array<Waifu>>
 export const api:API
